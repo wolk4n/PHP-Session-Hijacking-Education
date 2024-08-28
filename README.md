@@ -48,7 +48,7 @@ Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izl
 
 ## 🎥 Demo Videosu
 
-Bu proje hakkında daha fazla bilgi almak ve nasıl çalıştığını görmek için hazırladığım demo videosunu izleyebilirsiniz:
+Bu proje hakkında daha fazla bilgi almak ve nasıl çalıştığını görmek için hazırladığım videoyu izleyebilirsiniz:
 
 [![Session Hijacking Demo](https://www.imagevisit.com/images/2024/08/28/MR-ROBOT-1.png)](https://youtu.be/yBi4q-8B-nQ)
 
