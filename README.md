@@ -1,6 +1,6 @@
 # PHP Session Hijacking Education
 
-![Proje Banner](https://www.imagevisit.com/images/2024/08/28/Adsiz-tasarim-1.png))
+![Proje Banner](https://www.imagevisit.com/images/2024/08/28/Adsiz-tasarim-1.png)
 
 Bu proje, **PHP** ile geliştirilmiş kullanıcı giriş sistemi ve **Session Hijacking** güvenlik açığını anlamaya yönelik bir demo uygulamasıdır. Uygulama, web güvenliği konusunda eğitim amaçlı kullanımı hedeflemektedir.
 
@@ -50,7 +50,7 @@ Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izl
 
 Bu proje hakkında daha fazla bilgi almak ve nasıl çalıştığını görmek için hazırladığım demo videosunu izleyebilirsiniz:
 
-[![Session Hijacking Demo](https://img.youtube.com/vi/video-id/maxresdefault.jpg)](https://youtu.be/video-id)
+[![Session Hijacking Demo](https://www.imagevisit.com/images/2024/08/28/MR-ROBOT-1.png)](https://youtu.be/yBi4q-8B-nQ)
 
 ## 📝 Lisans
 
