@@ -1,6 +1,6 @@
 # PHP Session Hijacking Education
 
-![Proje Banner]([https://placehold.co/1000x300](https://www.imagevisit.com/images/2024/08/28/Adsiz-tasarim-1.png))
+![Proje Banner](https://www.imagevisit.com/images/2024/08/28/Adsiz-tasarim-1.png))
 
 Bu proje, **PHP** ile geliştirilmiş kullanıcı giriş sistemi ve **Session Hijacking** güvenlik açığını anlamaya yönelik bir demo uygulamasıdır. Uygulama, web güvenliği konusunda eğitim amaçlı kullanımı hedeflemektedir.
 
